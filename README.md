@@ -1,4 +1,5 @@
 This project aims to enhance password authentication security by analyzing users' unique keystroke patterns. 
+
 It combines user-specific keystroke dynamics with advanced machine learning techniques to create a robust
 authentication system that can accurately differentiate legitimate users from potential imposters.
 
